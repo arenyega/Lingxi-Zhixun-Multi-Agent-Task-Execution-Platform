@@ -1,4 +1,4 @@
-# 灵犀智讯 Multi-Agent Task Execution Platform
+# 灵犀智巡 Multi-Agent Task Execution Platform
 
 > 一个基于 **Gradio + browser-use + Playwright + LangGraph** 的多 Agent 任务执行平台，支持浏览器自动化任务、深度研究任务、多模型配置、MCP 工具扩展以及 Docker 可视化部署。
 
@@ -6,7 +6,7 @@
 
 ## 项目简介
 
-**灵犀智讯 Multi-Agent Task Execution Platform** 是一个面向 AI Agent 实验与应用开发的 WebUI 平台。项目围绕“让 AI 能够理解任务、操作浏览器、调用工具并生成结果”展开，提供了可视化配置界面和多种 Agent 执行模式。
+**灵犀智巡 Multi-Agent Task Execution Platform** 是一个面向 AI Agent 实验与应用开发的 WebUI 平台。项目围绕“让 AI 能够理解任务、操作浏览器、调用工具并生成结果”展开，提供了可视化配置界面和多种 Agent 执行模式。
 
 平台主要包含两类核心能力：
 
