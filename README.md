@@ -2,7 +2,6 @@
 
 > 一个基于 **Gradio + browser-use + Playwright + LangGraph** 的多 Agent 任务执行平台，支持浏览器自动化任务、深度研究任务、多模型配置、MCP 工具扩展以及 Docker 可视化部署。
 
-![Web UI](assets/web-ui.png)
 
 ## 项目简介
 
